@@ -15,7 +15,7 @@ M = Mine
 
 R = Rock
 
-**Objective**
+**Objective:**
 
 To build a robust classification model that can accurately distinguish between sonar signals reflected by mines and those reflected by rocks.
 
